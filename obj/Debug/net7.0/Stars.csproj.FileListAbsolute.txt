@@ -1,0 +1,15 @@
+C:\Users\MOIZES\Stars\bin\Debug\net7.0\Stars.exe
+C:\Users\MOIZES\Stars\bin\Debug\net7.0\Stars.deps.json
+C:\Users\MOIZES\Stars\bin\Debug\net7.0\Stars.runtimeconfig.json
+C:\Users\MOIZES\Stars\bin\Debug\net7.0\Stars.dll
+C:\Users\MOIZES\Stars\bin\Debug\net7.0\Stars.pdb
+C:\Users\MOIZES\Stars\obj\Debug\net7.0\Stars.csproj.AssemblyReference.cache
+C:\Users\MOIZES\Stars\obj\Debug\net7.0\Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOIZES\Stars\obj\Debug\net7.0\Stars.AssemblyInfoInputs.cache
+C:\Users\MOIZES\Stars\obj\Debug\net7.0\Stars.AssemblyInfo.cs
+C:\Users\MOIZES\Stars\obj\Debug\net7.0\Stars.csproj.CoreCompileInputs.cache
+C:\Users\MOIZES\Stars\obj\Debug\net7.0\Stars.dll
+C:\Users\MOIZES\Stars\obj\Debug\net7.0\refint\Stars.dll
+C:\Users\MOIZES\Stars\obj\Debug\net7.0\Stars.pdb
+C:\Users\MOIZES\Stars\obj\Debug\net7.0\Stars.genruntimeconfig.cache
+C:\Users\MOIZES\Stars\obj\Debug\net7.0\ref\Stars.dll
